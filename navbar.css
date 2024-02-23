@@ -1,0 +1,46 @@
+.akpnav {
+    background-color: black !important;
+    color: #1b1b1b !important;
+}
+
+.span1 {
+    font-weight: 650;
+    color: white;
+    /* margin-top: 5px !important; */
+}
+
+.span2 {
+    background-color: rgb(255, 163, 26);
+    /* background-color: #ffa31a; */
+    border-radius: 5px;
+    font-weight: 650;
+    color: black;
+    padding: 2px;
+    /* margin-top: 10px !important; */
+}
+
+.hamburger {
+    color: rgb(255, 163, 26);
+    height: 100px;
+
+}
+
+.drop {
+    color: rgb(255, 163, 26) !important;
+}
+
+.icon {
+    color: white;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.hundred {
+    height: 20px;
+    background-color: black;
+    display: flex;
+    /* text-align: center; */
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
